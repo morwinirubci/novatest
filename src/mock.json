@@ -1,0 +1,108 @@
+{
+  "actors": [
+    {
+      "id": 1,
+      "actor": "Генри Кавилл",
+      "role": "Геральт",
+      "roleInfo": "Ведьмак",
+      "image": "../assets/img/actors/actor1.webp"
+    },
+    {
+      "id": 2,
+      "actor": "Джои Бэти",
+      "role": "Лютик",
+      "roleInfo": "Один из центральных персонажей сериала, лучший друг и неизменный спутник Геральта, трубадур и бабник",
+      "image": "../assets/img/actors/actor2.webp"
+    },
+    {
+      "id": 3,
+      "actor": "Аня Чалотра",
+      "role": "Йеннифэр",
+      "roleInfo": "Йеннифэр",
+      "image": "../assets/img/actors/actor3.webp"
+    },
+    {
+      "id": 4,
+      "actor": "Фрейя Аллан",
+      "role": "Цири",
+      "roleInfo": "Цири",
+      "image": "../assets/img/actors/actor4.webp"
+    },
+    {
+      "id": 5,
+      "actor": "Барт Эдвардс",
+      "role": "Эмгыр вар Эмрейс",
+      "roleInfo": "Эмгыр вар Эмрейс",
+      "image": "../assets/img/actors/actor5.webp"
+    }
+  ],
+  "photos": [
+    {
+        "id": 1,
+        "src": "../assets/img/footage/photo_1.webp",
+        "alt": "someImage"
+    },
+    {
+        "id": 2,
+        "src": "../assets/img/footage/photo_2.webp",
+        "alt": "someImage"
+    },
+    {
+        "id": 3,
+        "src": "../assets/img/footage/photo_3.webp",
+        "alt": "someImage"
+    },
+    {
+        "id": 4,
+        "src": "../assets/img/footage/photo_4.webp",
+        "alt": "someImage"
+    },
+    {
+        "id": 5,
+        "src": "../assets/img/footage/photo_5.webp",
+        "alt": "someImage"
+    },
+    {
+      "id": 6,
+      "src": "../assets/img/footage/photo_1.webp",
+      "alt": "someImage"
+    },
+    {
+        "id": 7,
+        "src": "../assets/img/footage/photo_2.webp",
+        "alt": "someImage"
+    },
+    {
+        "id": 8,
+        "src": "../assets/img/footage/photo_3.webp",
+        "alt": "someImage"
+    },
+    {
+        "id": 9,
+        "src": "../assets/img/footage/photo_4.webp",
+        "alt": "someImage"
+    },
+    {
+        "id": 10,
+        "src": "../assets/img/footage/photo_5.webp",
+        "alt": "someImage"
+    }
+  ],
+  "markers": [
+    {
+      "id": 1,
+      "name": "Филиал 1",
+      "position": { "lat": 55.891924299641396, "lng": 37.35402612499479 }
+  },
+  {
+      "id": 2,
+      "name": "Филиал 2",
+      "position": { "lat": 55.78063778643438, "lng": 37.310080812495755 }
+  },
+  {
+      "id": 3,
+      "name": "Филиал 3",
+      "position": { "lat": 55.755864, "lng": 37.617698 }
+  }
+  ]
+}

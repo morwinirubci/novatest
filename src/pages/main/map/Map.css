@@ -1,0 +1,32 @@
+.map-section {
+    padding-top: 72px;
+    padding-bottom: 96px;
+}
+.map {
+    height: 540px;
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+}
+.map__marker-info p {
+    font-size: 18px;
+    color: #000;
+}
+.map__marker {
+    z-index: 123123;
+}
+.map__title {
+    margin-bottom: 40px;
+}
+@media screen and (max-width: 1400px) {
+    .map-section {
+        padding-top: 64px;
+        padding-bottom: unset;
+    }
+}
+@media screen and (max-width: 560px) {
+    .map-section{
+        padding-top: 48px;
+    }
+}
+
